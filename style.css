@@ -146,25 +146,6 @@ img {
         top: 140rem;
     }
   }
-
-  @media (max-width: 440px) {
-
-    .body {
-        min-width: 700px;
-    }
-
-    .testimonials {
-        display: flex;
-        /* flex-direction: column; */
-        flex-wrap: wrap;
-        width: 80%;
-        margin: 20px auto;
-    }
-
-    .attribution {
-        bottom: 1rem;
-    }
-  }
    
 .attribution {
     font-size: 11px; text-align: center;
